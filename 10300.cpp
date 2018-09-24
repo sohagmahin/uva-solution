@@ -1,3 +1,8 @@
+///Name: MD.Shamim Jahan Sohag
+///University: Dhaka International University
+///Fb: fb.com/sohagmahin
+///Email: sohagmahin@yahoo.com
+
 #include<iostream>
 #include<cstdio>
 #include<vector>
